@@ -1,7 +1,18 @@
 # PowerShell Deployed Enterprise Scale Infrastructure
 Deploy a more customized enterprise scale infrastructure via PowerShell using configuration files in json or csv.
 
-Customize naming schema, number of management groups, number of resource groups, number and naming of vnets, number and naming of subnets, vnet peering, multi-hub/multi-data center design, vnet to vnet connection for transitive routing, route tables, express route authorization, and more.
+Customize 
+1. Naming schema
+2. Number of management groups
+3. Number of resource groups
+4. Number and naming of vnets
+5. Number and naming of subnets
+6. Vnet peering
+7. Multi-hub/multi-data center design
+8. Vnet to vnet connection for transitive routing
+9. Route tables
+10. Express route authorization
+11. and more coming
 
 ## Goals
 Deploy infrastructure that is customized per customer schemas that functions completely out of the box.
