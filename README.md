@@ -1,5 +1,5 @@
 # PowerShell Deployed Enterprise Scale Infrastructure
-Deploy a more customized enterprise scale infrastructure via PowerShell using configuration files in json or csv.
+Deploy customizedand repeatable fully-realized enterprise scale infrastructure via PowerShell using configuration files in json, csv, or xml.
 
 Customize 
 1. Naming schema
